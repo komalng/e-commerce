@@ -6,6 +6,9 @@
   --mainDark:#232528;
 }
 
+/* rem is 16px */
+
+
 body{
   background: var(--mainWhite) !important;
   font-family: 'Lobster', cursive !important;
